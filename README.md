@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E8%AE%A8%E8%AE%BA%E5%8C%BA-yellowgreen.svg)](https://github.com/ReadingLab/Discussion-for-Cpp)
 [![](https://img.shields.io/badge/douban-%E5%B0%8F%E7%BB%84-green.svg)](http://www.douban.com/group/532124/)
 
-### Compilers recommended
+### Compilers and Frameworks recommended
  * Windows: Visual Studio 2015+ 
  
  * Linux: g++ 5.0+     
